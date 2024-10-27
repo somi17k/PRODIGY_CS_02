@@ -39,9 +39,9 @@ def decrypt_image(input_path, output_path, key):
     print("Image decrypted successfully!")
 
  # image path
-input_image = r"C:\Users\abu76\Desktop\Internship-01\Task-02\input.jpg"
-encrypted_image = r"C:\Users\abu76\Desktop\Internship-01\Task-02\decrypted_image.jpg"
-decrypted_image = r"C:\Users\abu76\Desktop\Internship-01\Task-02\encrypted_image.jpg"
+input_image = r"C:\Users\somil\OneDrive\Pictures\Screenshots\Screenshot (63).png"
+encrypted_image = r"F:\Chrome Downloads\U2NyZWVuc2hvdCAoNjMpLnBuZw==.encr"
+decrypted_image = r"F:\Chrome Downloads\Screenshot (63).png"
 
 
 # Encrypt the image
